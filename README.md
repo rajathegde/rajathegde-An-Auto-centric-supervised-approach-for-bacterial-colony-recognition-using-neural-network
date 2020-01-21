@@ -1,0 +1,1 @@
+# rajathegde-An-Auto-centric-supervised-approach-for-bacterial-colony-recognition-using-neural-network
